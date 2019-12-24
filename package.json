@@ -1,0 +1,17 @@
+{
+  "name": "printTicket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "gm": "^1.23.1",
+    "pureimage": "^0.1.6"
+  }
+}
